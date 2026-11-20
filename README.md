@@ -76,3 +76,6 @@ python3 scripts/visualize_alerts.py /var/log/suricata/eve.json -o screenshots/al
 ## Safety
 
 Install deps with `pip install -r requirements.txt`. Only test against machines you own or are authorized to scan. Test the blocker with `--dry-run` first, so you can't lock yourself out of a remote session.
+
+
+Created by [MD Raisul Fahad](https://github.com/raisul06) ·
